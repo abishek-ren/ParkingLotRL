@@ -1,7 +1,7 @@
 # Autonomous Car Parking System: Integrating Simplified Sensory Systems with Advanced Machine Learning Techniques
 
 ## Introduction
-Welcome to our project for the CSE-574 course, focusing on creating an innovative solution for autonomous car parking. Our system combines simplified sensory inputs with advanced machine learning techniques to efficiently navigate and park vehicles in various environments.
+Welcome to our project, focusing on creating an innovative solution for autonomous car parking. Our system combines simplified sensory inputs with advanced machine learning techniques to efficiently navigate and park vehicles in various environments.
 
 ## Features
 - **Advanced Machine Learning Models:** Utilizes cutting-edge ML algorithms for accurate decision-making.
