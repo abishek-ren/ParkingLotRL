@@ -15,5 +15,7 @@ Included is our project poster, providing a visual overview and key highlights. 
 ![Poster](https://github.com/abishek-ren/ParkingLotRL/assets/10160887/c54f1bd1-6479-4510-acdb-eb1dc7ae3f7b)
 
 ## Contributors
-@abishek-ren
-@spoorthiuk
+[Abishek ☀️](https://github.com/abishek-ren)
+
+
+[Spoorthi U K](https://github.com/spoorthiuk)
