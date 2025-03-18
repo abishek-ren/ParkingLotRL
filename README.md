@@ -17,5 +17,7 @@ Included is our project poster, providing a visual overview and key highlights. 
 ## Contributors
 [Abishek ☀️](https://github.com/abishek-ren)
 
+[Praveen Raj Mohanraj](https://github.com/praveen-raj-m)
 
 [Spoorthi U K](https://github.com/spoorthiuk)
+
